@@ -6,11 +6,12 @@
 
 
 ## Features
-
+<ul dir="auto">
 <li>Multi-threading Processing</li>
 <li>API Based Processing</li>
 <li>Error Handling</li>
 <li>Customize Thread Count</li>
+</ul>
 
 ## Buy Coffee :
 <ul dir="auto">
